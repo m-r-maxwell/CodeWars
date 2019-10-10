@@ -17,5 +17,10 @@ public class Kata
     }
     return true;
 
+    //Better solution
+    /*
+     return str.ToLower().Distinct().Count()==str.Length;
+    */
+
   }
 }
