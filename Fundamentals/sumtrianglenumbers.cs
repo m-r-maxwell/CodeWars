@@ -10,4 +10,4 @@ public class Kata
     
     return sum;
   }
-}
+}//  return (n * (n + 1) * (n + 2)) / 6; formula answer.
