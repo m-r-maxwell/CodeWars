@@ -10,4 +10,5 @@ public static class Kata
   
     return result;
   }
-}
+}//return start == end ? end : start > end ? 0 : SequenceSum(start + step, end, step) + start;
+//short solution
