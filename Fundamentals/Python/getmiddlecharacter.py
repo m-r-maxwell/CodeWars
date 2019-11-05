@@ -8,3 +8,5 @@ def get_middle(s):
         return(s[(strlen / 2 - 1): (strlen / 2 + 1)])
     else:
         return s
+#better solution
+#return s[(len(s)-1)/2:len(s)/2+1]
