@@ -7,3 +7,5 @@ function friend(friends){
     }
     return frndgroup;
   }
+
+  //return friends.filter(n => n.length === 4) oneliner
